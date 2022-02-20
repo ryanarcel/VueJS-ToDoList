@@ -1,2 +1,24 @@
-# VueJS-ToDoList
-This is my attempt to learn Vue JS by recreating a tutorial from Travesy Media. Link: https://youtu.be/qZXt1Aom3Cs
+# todolist2022
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
